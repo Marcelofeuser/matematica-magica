@@ -1,0 +1,42 @@
+[
+  {
+    "id": "fracao-pizza-1",
+    "age_group": "age_10_12",
+    "theme": "general",
+    "title": "A pizza espacial",
+    "question": "Uma pizza foi dividida em 8 partes e 3 foram comidas. Que fração restou?",
+    "options": ["3/8", "5/8", "5/3"],
+    "correct_answer": "5/8",
+    "explanation": "Restaram 8 - 3 = 5 das 8 partes, portanto 5/8."
+  },
+  {
+    "id": "porcentagem-1",
+    "age_group": "age_10_12",
+    "theme": "general",
+    "title": "Cristais do castelo",
+    "question": "20% de 50 cristais correspondem a quantos cristais?",
+    "options": ["5", "10", "20"],
+    "correct_answer": "10",
+    "explanation": "20% de 50 é 0,2 × 50 = 10."
+  },
+  {
+    "id": "arca-fracao-1",
+    "age_group": "age_10_12",
+    "theme": "biblical",
+    "title": "Alimento na arca",
+    "question": "De 12 sacos de alimento, 3 foram usados. Que fração do total foi usada na forma simplificada?",
+    "options": ["1/4", "1/3", "3/4"],
+    "correct_answer": "1/4",
+    "explanation": "Foram usados 3 de 12 sacos: 3/12. Dividindo ambos por 3, temos 1/4."
+  },
+  {
+    "id": "oferta-porcentagem-1",
+    "age_group": "age_10_12",
+    "theme": "biblical",
+    "title": "Partilha solidária",
+    "question": "Uma comunidade separou 25% de 80 pães para outras famílias. Quantos pães foram separados?",
+    "options": ["20", "25", "40"],
+    "correct_answer": "20",
+    "explanation": "25% é a quarta parte. 80 ÷ 4 = 20 pães."
+  }
+]

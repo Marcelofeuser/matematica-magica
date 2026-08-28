@@ -1,0 +1,14 @@
+{
+  "id": "biblical",
+  "name": "Aventura Bíblica Cristã",
+  "worlds": [
+    "arca_de_noe",
+    "davi_e_golias",
+    "jonas_e_a_baleia",
+    "jardim_do_eden",
+    "exodo",
+    "vida_de_jesus",
+    "apostolos"
+  ],
+  "optional_verses": true
+}

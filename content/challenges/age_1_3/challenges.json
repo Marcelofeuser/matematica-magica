@@ -1,0 +1,42 @@
+[
+  {
+    "id": "contagem-animais-1",
+    "age_group": "age_1_3",
+    "theme": "general",
+    "title": "Os patinhos",
+    "question": "Quantos patinhos há aqui? 🐥 🐥",
+    "options": ["1", "2", "3"],
+    "correct_answer": "2",
+    "explanation": "Há 2 patinhos. Vamos contar: um, dois!"
+  },
+  {
+    "id": "formas-1",
+    "age_group": "age_1_3",
+    "theme": "general",
+    "title": "A bola redonda",
+    "question": "Qual forma parece uma bola?",
+    "options": ["Círculo", "Quadrado", "Triângulo"],
+    "correct_answer": "Círculo",
+    "explanation": "O círculo é redondo como uma bola."
+  },
+  {
+    "id": "arca-contagem-1",
+    "age_group": "age_1_3",
+    "theme": "biblical",
+    "title": "Passarinhos na arca",
+    "question": "Quantos passarinhos vemos? 🐦 🐦 🐦",
+    "options": ["2", "3", "4"],
+    "correct_answer": "3",
+    "explanation": "Vamos apontar e contar: um, dois, três passarinhos."
+  },
+  {
+    "id": "eden-comparacao-1",
+    "age_group": "age_1_3",
+    "theme": "biblical",
+    "title": "Frutas do jardim",
+    "question": "Qual grupo tem mais frutas?",
+    "options": ["🍎", "🍎 🍎", "Os dois têm igual"],
+    "correct_answer": "🍎 🍎",
+    "explanation": "O grupo com 2 maçãs tem mais do que o grupo com 1 maçã."
+  }
+]

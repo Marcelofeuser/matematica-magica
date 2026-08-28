@@ -1,0 +1,42 @@
+[
+  {
+    "id": "equacao-1",
+    "age_group": "age_13_15",
+    "theme": "general",
+    "title": "O portal algébrico",
+    "question": "Resolva: 3x + 5 = 20. Qual é o valor de x?",
+    "options": ["3", "5", "8"],
+    "correct_answer": "5",
+    "explanation": "3x = 20 - 5 = 15; então x = 15 ÷ 3 = 5."
+  },
+  {
+    "id": "pitagoras-1",
+    "age_group": "age_13_15",
+    "theme": "general",
+    "title": "A ponte triangular",
+    "question": "Um triângulo retângulo tem catetos 3 e 4. Quanto mede a hipotenusa?",
+    "options": ["5", "6", "7"],
+    "correct_answer": "5",
+    "explanation": "Pelo teorema de Pitágoras: 3² + 4² = 9 + 16 = 25; √25 = 5."
+  },
+  {
+    "id": "jose-equacao-1",
+    "age_group": "age_13_15",
+    "theme": "biblical",
+    "title": "Celeiros do Egito",
+    "question": "Três celeiros guardam a mesma quantidade. Com mais 6 sacos, há 42 ao todo. Em 3x + 6 = 42, quanto vale x?",
+    "options": ["10", "12", "16"],
+    "correct_answer": "12",
+    "explanation": "3x = 42 - 6 = 36; dividindo por 3, x = 12 sacos por celeiro."
+  },
+  {
+    "id": "templo-escala-1",
+    "age_group": "age_13_15",
+    "theme": "biblical",
+    "title": "Planta em escala",
+    "question": "Em uma planta, 2 cm representam 5 m. Uma parede de 8 cm representa quantos metros?",
+    "options": ["16", "20", "40"],
+    "correct_answer": "20",
+    "explanation": "8 cm é 4 vezes 2 cm. Logo, a medida real é 4 × 5 = 20 m."
+  }
+]

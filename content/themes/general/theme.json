@@ -1,0 +1,10 @@
+{
+  "id": "general",
+  "name": "Aventura Geral",
+  "worlds": [
+    "floresta",
+    "espaco",
+    "fundo_do_mar",
+    "castelo"
+  ]
+}

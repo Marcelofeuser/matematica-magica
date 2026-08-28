@@ -1,0 +1,42 @@
+[
+  {
+    "id": "soma-macas-1",
+    "age_group": "age_4_6",
+    "theme": "general",
+    "title": "As maçãs mágicas",
+    "question": "Você tem 2 maçãs e ganha mais 3. Quantas maçãs tem agora?",
+    "options": ["4", "5", "6"],
+    "correct_answer": "5",
+    "explanation": "2 + 3 = 5. Duas maçãs com mais três formam cinco."
+  },
+  {
+    "id": "padrao-cores-1",
+    "age_group": "age_4_6",
+    "theme": "general",
+    "title": "Trilha colorida",
+    "question": "Complete o padrão: roxo, amarelo, roxo, amarelo, ...",
+    "options": ["Roxo", "Verde", "Azul"],
+    "correct_answer": "Roxo",
+    "explanation": "As cores se alternam. Depois do amarelo vem o roxo."
+  },
+  {
+    "id": "arca-pares-1",
+    "age_group": "age_4_6",
+    "theme": "biblical",
+    "title": "Os animais da arca",
+    "question": "Noé recebeu 2 leões e 2 elefantes. Quantos animais são ao todo?",
+    "options": ["2", "4", "6"],
+    "correct_answer": "4",
+    "explanation": "2 + 2 = 4 animais."
+  },
+  {
+    "id": "davi-pedras-1",
+    "age_group": "age_4_6",
+    "theme": "biblical",
+    "title": "As pedras de Davi",
+    "question": "Davi separou 5 pedras e usou 1. Quantas ficaram?",
+    "options": ["3", "4", "5"],
+    "correct_answer": "4",
+    "explanation": "5 - 1 = 4. Ficaram quatro pedras."
+  }
+]
